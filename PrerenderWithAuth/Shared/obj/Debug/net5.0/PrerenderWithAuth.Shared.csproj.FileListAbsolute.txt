@@ -1,0 +1,12 @@
+C:\Users\jason\Google Drive\Projects\PrerenderWithAuth\PrerenderWithAuth\Shared\bin\Debug\net5.0\PrerenderWithAuth.Shared.deps.json
+C:\Users\jason\Google Drive\Projects\PrerenderWithAuth\PrerenderWithAuth\Shared\bin\Debug\net5.0\PrerenderWithAuth.Shared.dll
+C:\Users\jason\Google Drive\Projects\PrerenderWithAuth\PrerenderWithAuth\Shared\bin\Debug\net5.0\ref\PrerenderWithAuth.Shared.dll
+C:\Users\jason\Google Drive\Projects\PrerenderWithAuth\PrerenderWithAuth\Shared\bin\Debug\net5.0\PrerenderWithAuth.Shared.pdb
+C:\Users\jason\Google Drive\Projects\PrerenderWithAuth\PrerenderWithAuth\Shared\obj\Debug\net5.0\PrerenderWithAuth.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\Google Drive\Projects\PrerenderWithAuth\PrerenderWithAuth\Shared\obj\Debug\net5.0\PrerenderWithAuth.Shared.AssemblyInfoInputs.cache
+C:\Users\jason\Google Drive\Projects\PrerenderWithAuth\PrerenderWithAuth\Shared\obj\Debug\net5.0\PrerenderWithAuth.Shared.AssemblyInfo.cs
+C:\Users\jason\Google Drive\Projects\PrerenderWithAuth\PrerenderWithAuth\Shared\obj\Debug\net5.0\PrerenderWithAuth.Shared.csproj.CoreCompileInputs.cache
+C:\Users\jason\Google Drive\Projects\PrerenderWithAuth\PrerenderWithAuth\Shared\obj\Debug\net5.0\PrerenderWithAuth.Shared.dll
+C:\Users\jason\Google Drive\Projects\PrerenderWithAuth\PrerenderWithAuth\Shared\obj\Debug\net5.0\ref\PrerenderWithAuth.Shared.dll
+C:\Users\jason\Google Drive\Projects\PrerenderWithAuth\PrerenderWithAuth\Shared\obj\Debug\net5.0\PrerenderWithAuth.Shared.pdb
+C:\Users\jason\Google Drive\Projects\PrerenderWithAuth\PrerenderWithAuth\Shared\obj\Debug\net5.0\PrerenderWithAuth.Shared.csprojAssemblyReference.cache
